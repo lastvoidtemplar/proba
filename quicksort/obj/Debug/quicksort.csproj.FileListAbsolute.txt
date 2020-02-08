@@ -1,0 +1,7 @@
+C:\Users\KK7-3\source\repos\Melisa 9b\quicksort\quicksort\bin\Debug\quicksort.exe.config
+C:\Users\KK7-3\source\repos\Melisa 9b\quicksort\quicksort\bin\Debug\quicksort.exe
+C:\Users\KK7-3\source\repos\Melisa 9b\quicksort\quicksort\bin\Debug\quicksort.pdb
+C:\Users\KK7-3\source\repos\Melisa 9b\quicksort\quicksort\obj\Debug\quicksort.csprojAssemblyReference.cache
+C:\Users\KK7-3\source\repos\Melisa 9b\quicksort\quicksort\obj\Debug\quicksort.csproj.CoreCompileInputs.cache
+C:\Users\KK7-3\source\repos\Melisa 9b\quicksort\quicksort\obj\Debug\quicksort.exe
+C:\Users\KK7-3\source\repos\Melisa 9b\quicksort\quicksort\obj\Debug\quicksort.pdb
